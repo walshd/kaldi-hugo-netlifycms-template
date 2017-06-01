@@ -3,38 +3,42 @@ title: Lessons
 type: lessons
 page: /products.html
 image: /img/products/jumbotron.jpg
-heading: What we offer
-description: >-
-  LEarn anything web here.
+heading: What we teach
+description: Learn anything web here.
 intro:
   blurbs:
     - image: /img/illustrations/coffee.svg
       text: >
-        We teach modern web development. We are passionate about helping people learn the relevant skills to gain employment in the web industry or advance in the industry.
+        We teach modern web development. We are passionate about helping people
+        learn the relevant skills to gain employment in the web industry or
+        advance in the industry.
     - image: /img/illustrations/coffee-gear.svg
       text: >
-        We offer a small, but carefully curated selection of tutorials. We are interested in bringing you upto date tutorials and news from the people who use the tech every day.
+        We offer a small, but carefully curated selection of tutorials. We are
+        interested in bringing you upto date tutorials and news from the people
+        who use the tech every day.
     - image: /img/illustrations/tutorials.svg
       text: >
-        Would you love to code a website, but never knew how to make one? Heard all the hype of the new technology but have no clue how to use it? Don't worry, we’re here to help. You can read the tutorials or you can book a one to one tutor session via Google Hnagouts.
-        Email us for details.
+        Would you love to code a website, but never knew how to make one? Heard
+        all the hype of the new technology but have no clue how to use it? Don't
+        worry, we’re here to help. You can read the tutorials or you can book a
+        one to one tutor session via Google Hnagouts. Email us for details.
     - image: /img/illustrations/meeting-space.svg
       text: >
-        We believe that the web should be a place for everyone! good coffee has the power to bring people together.
-        That’s why we decided to create a space on the web where you can learn accessible web design and development in the latest technologies.
+        We believe that the web should be a place for everyone! good coffee has
+        the power to bring people together. That’s why we decided to create a
+        space on the web where you can learn accessible web design and
+        development in the latest technologies.
   heading: What we teach
-  description: >
-    Kaldi is the ultimate spot for coffee lovers who want to learn about their
-    java’s origin and support the farmers that grew it. We take coffee
-    production, roasting and brewing seriously and we’re glad to pass that
-    knowledge to anyone.
+  description: |
+    Learn the latest in accessible web design and development here.
 main:
-  heading: Great coffee with no compromises
+  heading: Accessible web with no compromises
   description: >
-    We hold our coffee to the highest standards from the shrub to the cup.
-    That’s why we’re meticulous and transparent about each step of the coffee’s
-    journey. We personally visit each farm to make sure the conditions are
-    optimal for the plants, farmers and the local environment.
+    Accessibility is not a dark magic that is aimed at aiding only a small
+    portion of the population it is a standard that EVERY designer and Developer
+    should aim for without a second thought. It also helps EVERYONE who uses
+    your site.
   image1:
     alt: A close-up of a paper filter filled with ground coffee
     image: /img/products/products-grid3.jpg
@@ -83,3 +87,4 @@ pricing:
       plan: Custom
       price: '?'
 ---
+
