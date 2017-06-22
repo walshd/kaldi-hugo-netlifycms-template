@@ -1,5 +1,5 @@
 ---
-title: A beginners’ guide to accessible web.
+title: A noob beginners’ guide to accessible web.
 date: 2017-01-04T15:04:10.000Z
 description: >-
   help everyone help you! by creating accessible websites you are enforcing the
